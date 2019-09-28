@@ -1,0 +1,1 @@
+Placeholder for the static content of the web application
